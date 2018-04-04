@@ -4,6 +4,11 @@
   "scripts": {
     "test": "ava --verbose"
   },
+  "author": "Michael Wonng",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwonng/collection-detach.git"
+  },
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
