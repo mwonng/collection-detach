@@ -1,6 +1,6 @@
 {
   "name": "collection-detach",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "test": "ava --verbose"
   },
@@ -12,7 +12,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.25.0",
-    "colors": "^1.2.1"
+    "ava": "^0.25.0"
   }
 }
