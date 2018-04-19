@@ -26,11 +26,11 @@ If object has id as a key, this object should be from the old array and already 
 **Install in package**
 run
 ```sh
-yarn add arrayDetach
+yarn add collection-detach
 ```
 or
 ```sh
-npm i arrayDetach
+npm i collection-detach
 ```
 
 **import to your code**
